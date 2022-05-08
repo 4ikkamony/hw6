@@ -1,2 +1,2 @@
 # telegram-dialogs-analysis-v2
-Some data analysis based on donloaded telegram data
+Some data analysis based on downloaded telegram data
